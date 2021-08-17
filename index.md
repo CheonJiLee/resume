@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+# Profile
+* 
 
-You can use the [editor on GitHub](https://github.com/CheonJiLee/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<br>
+<br>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Experience 
 
-### Markdown
+## 웍스모바일 ( 2017 ~ 2018 )
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 네이버 클라우드 iOS 앱 개발
+* 검색필터 설계 및 개발 진행
+  * Description.
+    * 네이버 클라우드 iOS TDS(Toss Design System, 토스 웹 서비스 대부분이 사용하는 React UI Framework)을 비롯하여 생산성을 위해 사용하고 있는 각종 사내 라이브러리를 유지보수, 개선하고 있습니다.
+  * What did I do.
+    * sddsd
 
-# Header 1
-## Header 2
-### Header 3
+<br>
 
-- Bulleted
-- List
+* FastScroll 모듈 리팩토링
+  * Description.
+    * 네이버 클라우드 iOS TDS(Toss Design System, 토스 웹 서비스 대부분이 사용하는 React UI Framework)을 비롯하여 생산성을 위해 사용하고 있는 각종 사내 라이브러리를 유지보수, 개선하고 있습니다.
+  * What did I do.
+    * dsddsd 
 
-1. Numbered
-2. List
+<br>
 
-**Bold** and _Italic_ and `Code` text
+* Drag Select 모듈 구현
+  * Description.
+    * 네이버 클라우드 iOS TDS(Toss Design System, 토스 웹 서비스 대부분이 사용하는 React UI Framework)을 비롯하여 생산성을 위해 사용하고 있는 각종 사내 라이브러리를 유지보수, 개선하고 있습니다.
+  
+<br>
+<br>
 
-[Link](url) and ![Image](src)
-```
+## 네이버 ( 2018 ~ 현재 )
+* 2018년 10월 01일 ~ 현재
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 네이버 캘린더 iOS 앱 개발
+* 검색필터
+  * Description.
+    * 네이버 클라우드 iOS TDS(Toss Design System, 토스 웹 서비스 대부분이 사용하는 React UI Framework)을 비롯하여 생산성을 위해 사용하고 있는 각종 사내 라이브러리를 유지보수, 개선하고 있습니다.
+  * What did I do.
+    * dsds
 
-### Jekyll Themes
+<br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CheonJiLee/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* 동기화 모듈 리팩토링 설계 참여(쓸지 고민)
 
-### Support or Contact
+<br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* WidgetKit iOS14 위젯 개발
+ 
+<br>
+<br>
+
+### 네이버 iOS 앱 개발
+* 친구 연락처 업로드 모듈 구현
+
+<br>
+<br>
+<br>
+
+# Skills
+* Object-c, Swift, SwiftUI
+
+<br>
+<br>
+<br>
+
+# Education
+- 한국항공대학교 소프트웨어학과 전공( ~ 2018)
+
+<br>
+<br>
+<br>
+
+
+# Contact
